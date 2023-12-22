@@ -1,0 +1,4 @@
+<<<<<<< HEAD
+=======
+Une énorme cagnotte
+>>>>>>> cagnotte
